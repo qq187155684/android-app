@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">niceLook</string>
+
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="password">密码</string>
+    <string name="username">用户名</string>
+    <string name="line_title">选择线路</string>
+    <string name="line1">线路一</string>
+    <string name="line2">线路二</string>
+    <string name="line3">线路三</string>
+    <string name="input_user_hint">请输入用户名/手机号</string>
+    <string name="input_pwd_hint">请输入密码</string>
+    <string name="back_response">再按一次退出程序</string>
+
+</resources>
